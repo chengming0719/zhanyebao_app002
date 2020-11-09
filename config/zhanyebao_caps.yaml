@@ -1,0 +1,20 @@
+platformName: Android
+#模拟器
+platforVersion: 4.4.2
+deviceName: 127.0.0.1:62025
+
+#mx4真机
+#platformVersion: 10
+#udid: f2540e17
+#deviceName: MX4
+
+app: D:\pycharm\zhanyebao_app\app\zybcs30559.apk
+noReset: False
+uicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: ys.UNI6D2E0FB   # ys.UNI6D2E0FB  com.tal.kaoyan
+#appActivity: com.tal.kaoyan.ui.activity.SplashActivity  #考研帮app的路径
+appActivity: io.dcloud.PandoraEntry
+ip: 127.0.0.1
+port: 4723
